@@ -1,0 +1,16 @@
+Q)How can you move or copy Jenkins from one server to another server
+A) using the thinbackup plugin
+first you will have to install this plugin in both your server
+->Install ThinBackup on both the source and the target Jenkins servers
+->Configure Backup Directory on both (in Manage Jenkins → ThinBackup → Settings)
+->On Sourse Jenkins go to ThinBackup → Backup Now
+->Copy from Jenkins Source Backup directory to Jenkins Target Backup Directory
+On Target Jenkins go to ThinBackup → Restore, and then restart Jenkins service.
+If some Plugins or Jobs are missing, copy the backup content directly to the target JENKINS_HOME.
+If you had user authentication on the source Jenkins, and now locked out on the target Jenkins, 
+then edit Jenkins config.xml, set <useSecurity> to false, and restart Jenkins.
+
+Q)Explain about Jenkins security mechanism
+A)Jenkins has a security mechanism in place so that the administrator of Jenkins can control 
+who gets access to what part of Jenkins.
+

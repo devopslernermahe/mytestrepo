@@ -1,0 +1,120 @@
+
+
+First stage one:
+Comman question tell me about you and your day to day job activities.
+
+
+1. what’s s3?
+2. Types of load balancers.
+3. Difference between virtualisation  and docker and hyperwiser.
+4. What’s route53?
+5. Difference between Security groups and Nacl.
+6. How to launch website with s3?
+7. Explain how to launch webpage via ec2?
+8. Difrent storage types of s3?
+9. What’s Dns port?
+10. Diff between terraform and cloud formation?
+11. What’s cloudfromt?
+12. Types of ec2 storage?
+13. Linux commands ping, netstat, df and top.
+14. How’s linux boot up process works?  
+15. Whats init command in linux? 
+16. What’s sed command in linux?
+17. Whats disaster recovery plan?
+18. Iam role?
+19. Autoscallling launch templet?
+20. S3 storage types?
+21. How many aws accounts in company?
+22. How many servers in company?
+23. What’s structure of private and public cloud in company?
+24. Where do u keep ur terraform file in company?
+25. Team in company?
+26. Difference between widows and linux?
+27. What’s ur fav operation system and why?
+28. What’s cloudwatch do?
+29. What tool using to raise tickets?
+30. When u put service in private subnet and when in public subnet?
+31. How to create topic for notification?
+32. What’s storage gateway?
+
+
+Second stage one::
+
+Aws::
+
+1. what’s structure of service at ur company? Tell me diagram?
+2. How many micro services working in company?
+3. When to use application and network load balancer?
+4. How to check logs of Vpc?
+5. How to make best security in aws?
+6. How to keep s3 secure?
+7. What’s s3 versioning?
+8. S3 is global service or not?
+9. Importance of cloud.
+10. How to check server okay or not when you launch your first ec2 server?
+11. Most commonly asked question is web page not working how to debug it? Hardware and network both sides.
+12. Use of lamda?
+13. How to use sqs and sms?
+14. How to connect on premise with aws Services?
+15. What’s benefit of aws security wise?
+16. How u connivence client to move to aws?
+17. Describe structure of database, web server and customers? How you can make single tier or 2 tier aws infra?
+18. What are different way of your application to be security proof? Hint password what else?
+19. What’s ur role in production and development side?
+20. What’s rollback strategy in ur company?
+21. Can u manually done any changes in company or all you have automation?
+
+Terraform::
+
+1. what’s module and child module?
+2. How many script you made in company?
+3. How many workspace you have in company?
+4. Do u use open source or enterprise?
+5. How to generate logs?
+6. If no internet how to download providers?
+7. How to use output values in terraform?
+8. How to use terraform import command?
+9. Why we use diffent version of terraform?
+10. How terraform lock command works?
+11. Lots of questions around state file. Like what’s state file, remote and local state, path of state file, what state file does etc.
+12. Use of terraform in it command.
+13. What’s provisioners?
+
+
+Docker:
+
+1. What’s docker?
+2. What’s docker file?
+3. Docker file commands 
+4. How to make docker file small?
+5. Docker network types?
+6. Tell command to pull image in docker?
+7. What’s command to create container?
+
+Ansible?
+
+1. what’s Ansible?
+2. Commands you used in comoany?
+3. Whats playbook?
+4. Command to patch os in Ansible?
+5. Whats Ansible vault?
+6. What’s Ansible tower?
+
+Jenkins:
+
+1. what’s Jenkins?
+2. Whats grovvi in jenkins?
+3. How can u configure Jenkins?
+4. What kind of testing in pipeline?
+5. How u configure webhooks?
+6. Master and slave concept?
+
+General questions?
+
+What’s ssh?
+How generate key?
+How to copy file via ssh?
+Command to connect via ssh?
+What’s linux Cronjob?
+What’s error code 4, 5 series?
+Port numbers?

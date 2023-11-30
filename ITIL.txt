@@ -1,0 +1,64 @@
+Q)itil benfits:
+
+There are several benefits to using the ITIL framework:
+
+Improved service delivery: 
+Reduced costs: 
+Improved customer satisfaction: 
+Better alignment with business objectives: 
+Increased productivity:
+Greater transparency:
+
+1)ITIL publications
+
+ITIL service stratagy: understands organinizational objectives and customer needs
+service design: turns the service stratagy into a plan for delivering the business objectives
+service transition: Develop and improve capablity for intrudusing new service into supported environments
+service operation: Manages services in supported environments
+continual service improvement: achives service incremental and large-scale improvement
+
+2) Monitoring:
+
+monitoring is nothing but whatching/ observing in errors / issues where is it going wrong
+
+3)why do the need to monitoring
+
+Monitoring is important for a variety of reasons. 
+It helps to ensure that systems, processes, and people are functioning properly and efficiently.
+It can also help to identify problems or issues early on, 
+so that they can be addressed before they become larger or more serious.
+Additionally, monitoring can be used to track progress, performance, and other key metrics, 
+which can help to inform decision-making and continuous improvement efforts.
+
+4) what is incident Mangement?
+
+--> incident mangementis a sudden distruption/interruption any appliction or server or database 
+--> The application is not work properly then we have to create on incident& first we do icident management is to 
+    resolve or fix as soon as possible to bring back the appliction to narmal stage in incident management, priority is very Importent
+--> Based on the priority, we know the how important that problem priority is impact and urgency 
+  
+ex:- Report issue via email or logging incident inthe instance 
+     defining priority as per the impact
+	 assigning to the right group for quick resolution
+	 resolving and communicating to the user
+	 
+5)what is problem management?
+ 
+--> problem management is nothing but is to prevent that icident to reoccer again
+
+Root couse: it colud be a data base issue, code issue network issue & whereit is coming from & who is responsible for it 
+            & what changes there need to do to fix this problem & where there how to fix is it app code or infrostructre code
+             server code
+			 
+			 
+
+Data dog 
+--------
+Datadog is focused more on cloud monitoring and security.
+ It offers the ability to see inside any stack or application at any scale and anywhere.
+ Infrastructure monitoring, APM, log management, device monitoring, cloud workload monitoring, 
+ and database monitoring are all included within its feature set
+ 
+ DataDog is a paid SaaS tool that provides a range of products for monitoring applications and
+ tech infrastructure. While CloudWatch is an Amazon Web Services product that monitors applications 
+ running on AWS infrastructure, or using AWS services.
